@@ -8,7 +8,7 @@ spring:
   profiles: dev
   application:
     name: microservicecloud-config-atguigu-dev
-myinfo: 777
+myinfo: 888
 ---
 
 spring:
